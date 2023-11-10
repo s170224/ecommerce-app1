@@ -1,0 +1,30 @@
+.liContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.imager1 {
+  height: 100px;
+  width: 150px;
+}
+
+.conatiner {
+  display: flex;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+}
+.licon {
+  list-style-type: none;
+  text-align: center;
+  margin: 6px;
+  /* padding: 10px; */
+}
+.buttonName {
+  border-style: none;
+}
+.button1 {
+  border-radius: 30px;
+  background-color: lightgreen;
+  border-style: none;
+}
